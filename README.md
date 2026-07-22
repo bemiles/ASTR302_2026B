@@ -15,3 +15,12 @@ Students will learn how to develop and execute an observing program with optical
 *    Create a plan to execute an observational or archival astronomical program.
 *    Visualize and reduce data from astronomical instruments using software and python code.
 
+
+Necessary python modules
+-numpy
+-astropy
+-matplotlib
+-photutils
+-astroplan
+-glob
+-scipy
