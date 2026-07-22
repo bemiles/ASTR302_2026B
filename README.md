@@ -1,6 +1,6 @@
 # ASTR302: Introduction to Observational Astronomy
-Prof. Brittany Miles
-Fall 2026B
+### Prof. Brittany Miles
+### Fall 2026B
 
 ## Course Description
 
