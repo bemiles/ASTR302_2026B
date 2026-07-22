@@ -19,10 +19,10 @@ Students will learn how to develop and execute an observing program with optical
 
 
 Necessary python modules
--numpy
--astropy
--matplotlib
--photutils
--astroplan
--glob
--scipy
+*numpy
+*astropy
+*matplotlib
+*photutils
+*astroplan
+*glob
+*scipy
